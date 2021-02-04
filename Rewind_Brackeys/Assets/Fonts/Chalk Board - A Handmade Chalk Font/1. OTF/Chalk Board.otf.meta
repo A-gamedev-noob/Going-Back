@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: feec8b0c811da1240a6e0b775babc61d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chalk Board
+  fontNames:
+  - Chalk Board
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 971964bf1c6b4854ba25767dee3abb2b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
